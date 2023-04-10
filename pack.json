@@ -1,0 +1,10 @@
+{
+  "name": "3DS Lowfi eShop",
+  "description": "Sourced from ROLDY's Soundcloud. Nostalgic and relaxing vibes.",
+  "author": "maxiboyc",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
